@@ -19,5 +19,5 @@ screenshot: ../../pages/offers-winter/screenshot.webp
 5. [Contact And Press Details](../components/contact-and-press-details.md)
 6. [Photo Card Row](../components/photo-card-row.md)
 7. [Destination Search Hero](../components/destination-search-hero.md)
-8. [Image With Text Card](../components/image-with-text-card.md)
+8. [Image And Text Section](../components/image-and-text-section.md)
 9. [Site Footer](../components/site-footer.md)

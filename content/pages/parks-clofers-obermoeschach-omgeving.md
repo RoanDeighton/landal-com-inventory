@@ -15,6 +15,6 @@ screenshot: ../../pages/parks-clofers-obermoeschach-omgeving/screenshot.webp
 1. [Site Header](../components/site-header.md)
 2. [Cookie Bar](../components/cookie-bar.md)
 3. [Facilities Text With List](../components/facilities-text-with-list.md)
-4. [Nearby Attraction Tiles](../components/nearby-attraction-tiles.md)
+4. [Large Photo Tiles](../components/large-photo-tiles.md)
 5. [Destination Search Hero](../components/destination-search-hero.md)
 6. [Site Footer](../components/site-footer.md)

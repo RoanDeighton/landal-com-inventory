@@ -15,5 +15,5 @@ screenshot: ../../pages/destinations-netherlands-limburg-arcen/screenshot.webp
 1. [Site Header](../components/site-header.md)
 2. [Price Availability Calendar](../components/price-availability-calendar.md)
 3. [Accommodation Listing With Filters](../components/accommodation-listing-with-filters.md)
-4. [Image With Text Card](../components/image-with-text-card.md)
+4. [Image And Text Section](../components/image-and-text-section.md)
 5. [Site Footer](../components/site-footer.md)

@@ -14,5 +14,5 @@ screenshot: ../../pages/holidays-holiday-parks-in-belgium-with-a-swimming-pool/s
 
 1. [Site Header](../components/site-header.md)
 2. [Destination Search Hero](../components/destination-search-hero.md)
-3. [Image With Text Card](../components/image-with-text-card.md)
+3. [Image And Text Section](../components/image-and-text-section.md)
 4. [Site Footer](../components/site-footer.md)

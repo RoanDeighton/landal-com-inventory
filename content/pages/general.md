@@ -14,5 +14,5 @@ screenshot: ../../pages/general/screenshot.webp
 
 1. [Site Header](../components/site-header.md)
 2. [Destination Search Hero](../components/destination-search-hero.md)
-3. [Seasonal Offer Tiles](../components/seasonal-offer-tiles.md)
+3. [Large Photo Tiles](../components/large-photo-tiles.md)
 4. [Site Footer](../components/site-footer.md)

@@ -16,7 +16,7 @@ screenshot: ../../pages/parks-vakantiepark-hunzedal-surroundings/screenshot.webp
 2. [Cookie Bar](../components/cookie-bar.md)
 3. [Cookie Bar](../components/cookie-bar.md)
 4. [Facilities Text With List](../components/facilities-text-with-list.md)
-5. [Nearby Attraction Tiles](../components/nearby-attraction-tiles.md)
+5. [Large Photo Tiles](../components/large-photo-tiles.md)
 6. [Destination Search Hero](../components/destination-search-hero.md)
 7. [App Download Feature List](../components/app-download-feature-list.md)
 8. [Site Footer](../components/site-footer.md)

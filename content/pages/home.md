@@ -13,5 +13,5 @@ screenshot: ../../pages/home/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Site Header](../components/site-header.md)
-2. [Seasonal Offer Tiles](../components/seasonal-offer-tiles.md)
+2. [Large Photo Tiles](../components/large-photo-tiles.md)
 3. [Site Footer](../components/site-footer.md)

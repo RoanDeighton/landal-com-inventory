@@ -1,9 +1,12 @@
 ---
-title: "Accommodation Category Tiles"
-class: "c-static-page-content content-top"
+title: "Photo Category Tiles"
+class: "c-static-page-content content-top o-page-panel"
 examples:
-  - image: ../../pages/accommodations/crop-accommodation-category-tiles.webp
+  - image: ../../pages/accommodations/crop-photo-category-tiles.webp
     capturedFromPage: accommodations
+  - image: ../../pages/destinations/crop-photo-category-tiles-region-names-in-two-rows.webp
+    capturedFromPage: destinations
+    label: "Region names in two rows"
 siteUsage:
   pages: 73
   low: 10

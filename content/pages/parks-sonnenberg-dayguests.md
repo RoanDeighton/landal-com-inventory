@@ -16,6 +16,6 @@ screenshot: ../../pages/parks-sonnenberg-dayguests/screenshot.webp
 2. [Cookie Bar](../components/cookie-bar.md)
 3. [Photo Hero Banner](../components/photo-hero-banner.md)
 4. [Contact And Press Details](../components/contact-and-press-details.md)
-5. [Image With Text Card](../components/image-with-text-card.md)
-6. [Image With Text Card](../components/image-with-text-card.md)
+5. [Image And Text Section](../components/image-and-text-section.md)
+6. [Image And Text Section](../components/image-and-text-section.md)
 7. [Site Footer](../components/site-footer.md)

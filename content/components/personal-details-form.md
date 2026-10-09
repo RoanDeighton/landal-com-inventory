@@ -1,9 +1,12 @@
 ---
 title: "Personal Details Form"
-class: "c-static-page-content s-forms-section"
+class: "c-static-page-content s-forms-section o-island"
 examples:
   - image: ../../pages/models-wanted-inschrijfformulier/crop-personal-details-form.webp
     capturedFromPage: models-wanted-inschrijfformulier
+  - image: ../../pages/models-wanted-inschrijfformulier/crop-personal-details-form-second-family-member-fields.webp
+    capturedFromPage: models-wanted-inschrijfformulier
+    label: "Second family member fields"
 siteUsage:
   pages: 27
   low: 2

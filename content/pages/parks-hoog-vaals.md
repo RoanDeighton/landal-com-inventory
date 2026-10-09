@@ -13,9 +13,9 @@ screenshot: ../../pages/parks-hoog-vaals/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Site Header](../components/site-header.md)
-2. [Image Text Panel](../components/image-text-panel.md)
+2. [Image And Text Section](../components/image-and-text-section.md)
 3. [Expandable Info Accordion](../components/expandable-info-accordion.md)
-4. [Nearby Attraction Tiles](../components/nearby-attraction-tiles.md)
+4. [Large Photo Tiles](../components/large-photo-tiles.md)
 5. [Quick Links Bar](../components/quick-links-bar.md)
 6. [Facility Category Tiles](../components/facility-category-tiles.md)
 7. [Contact And Press Details](../components/contact-and-press-details.md)

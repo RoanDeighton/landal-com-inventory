@@ -13,7 +13,7 @@ screenshot: ../../pages/favourites/screenshot.webp
 ## Section outline (top to bottom)
 
 1. [Site Header](../components/site-header.md)
-2. [Image With Text Card](../components/image-with-text-card.md)
+2. [Image And Text Section](../components/image-and-text-section.md)
 3. [Accommodation Card Row](../components/accommodation-card-row.md)
 4. [Accommodation Card Row](../components/accommodation-card-row.md)
 5. [Site Footer](../components/site-footer.md)

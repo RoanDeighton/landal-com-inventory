@@ -14,7 +14,7 @@ screenshot: ../../pages/sustainability-green-key/screenshot.webp
 
 1. [Site Header](../components/site-header.md)
 2. [Photo Hero Banner](../components/photo-hero-banner.md)
-3. [Image Text Panel](../components/image-text-panel.md)
-4. [Image With Text Card](../components/image-with-text-card.md)
+3. [Image And Text Section](../components/image-and-text-section.md)
+4. [Image And Text Section](../components/image-and-text-section.md)
 5. [Photo Strip Banner](../components/photo-strip-banner.md)
 6. [Site Footer](../components/site-footer.md)

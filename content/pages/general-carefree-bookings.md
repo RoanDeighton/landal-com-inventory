@@ -19,5 +19,5 @@ screenshot: ../../pages/general-carefree-bookings/screenshot.webp
 5. [Photo Card Row](../components/photo-card-row.md)
 6. [Cookie Bar](../components/cookie-bar.md)
 7. [Cookie Bar](../components/cookie-bar.md)
-8. [Accommodation Category Tiles](../components/accommodation-category-tiles.md)
+8. [Photo Category Tiles](../components/photo-category-tiles.md)
 9. [Site Footer](../components/site-footer.md)

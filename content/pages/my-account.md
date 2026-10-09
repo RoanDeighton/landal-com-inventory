@@ -14,5 +14,5 @@ screenshot: ../../pages/my-account/screenshot.webp
 
 1. [Site Header](../components/site-header.md)
 2. [Login And Registration Panel](../components/login-and-registration-panel.md)
-3. [Accommodation Category Tiles](../components/accommodation-category-tiles.md)
+3. [Photo Category Tiles](../components/photo-category-tiles.md)
 4. [Site Footer](../components/site-footer.md)

@@ -9,14 +9,14 @@
     "5aff21": "Facilities Text With List",
     "b013d1": "Cashback Terms List",
     "40d786": "Contact And Press Details",
-    "92f12d": "Image With Text Card",
-    "f2eeab": "Accommodation Category Tiles",
+    "92f12d": "Image And Text Section",
+    "f2eeab": "Photo Category Tiles",
     "cc6dcb": "App Download Feature List",
     "e951b1": "Expandable Info Accordion",
     "4dfb93": "Accommodation Listing With Filters",
     "eacfa2": "Price Availability Calendar",
     "12928e": "Seasonal Offer Tiles",
-    "ac6191": "Nearby Attraction Tiles",
+    "ac6191": "Large Photo Tiles",
     "ef11e0": "Photo Strip Banner",
     "481fa7": "Image Text Panel",
     "c36208": "Photo Checklist Feature",
@@ -71,10 +71,6 @@
       "59e747"
     ],
     [
-      "481fa7",
-      "21013d"
-    ],
-    [
       "c36208",
       "e60c96"
     ],
@@ -93,6 +89,30 @@
     [
       "45e6de",
       "f80ec9"
+    ],
+    [
+      "f2eeab",
+      "b9f4cc"
+    ],
+    [
+      "ac6191",
+      "12928e"
+    ],
+    [
+      "c36208",
+      "ae547a"
+    ],
+    [
+      "92f12d",
+      "481fa7"
+    ],
+    [
+      "09d900",
+      "c2a024"
+    ],
+    [
+      "92f12d",
+      "21013d"
     ]
   ],
   "variants": {
@@ -108,7 +128,12 @@
     "e15299": "Different card heading",
     "cd2b38": "With a heading above",
     "5ea431": "Teal icons, ski facts",
-    "f80ec9": "Bullets without icons"
+    "f80ec9": "Bullets without icons",
+    "b9f4cc": "Region names in two rows",
+    "12928e": "Benefit claims above the tiles",
+    "ae547a": "Two columns, no photo",
+    "481fa7": "Photo beside the text, no overlap",
+    "c2a024": "Second family member fields"
   },
   "exclude": [
     "edef02"

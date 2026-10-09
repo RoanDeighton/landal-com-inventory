@@ -6,11 +6,11 @@ title: "landal.com: Site Inventory Overview"
 
 # landal.com
 
-<p class="stats-line">82 captured pages, distilled into 39 page types and 40 reusable components.</p>
+<p class="stats-line">82 captured pages, distilled into 39 page types and 35 reusable components.</p>
 
 <!-- stat-blocks -->
 
-<p class="callout"><strong>Light pass.</strong> This covers landal.com (the /en site). Every captured page is placed and linked with its own screenshot, and 40 components are identified and linked with a cropped example image and the pages that use them. None of it has a written description or a CMS data model yet. The sitemap lists 5,708 pages. The pages shown here are a sample of those, picked by the page types the site declares in its own markup: 2 to 5 pages per type, plus pages that show a kind of section nothing else does and types that only appear in the sitemap.</p>
+<p class="callout"><strong>Light pass.</strong> This covers landal.com (the /en site). Every captured page is placed and linked with its own screenshot, and 35 components are identified and linked with a cropped example image and the pages that use them. None of it has a written description or a CMS data model yet. The sitemap lists 5,708 pages. The pages shown here are a sample of those, picked by the page types the site declares in its own markup: 2 to 5 pages per type, plus pages that show a kind of section nothing else does and types that only appear in the sitemap.</p>
 
 ## How this was made
 

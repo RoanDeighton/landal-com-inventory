@@ -1,0 +1,331 @@
+www.landal.com  (862 pages opened, 5752 URLs found)
+
+Scope: landal.com, language /en. Left out: 14477 other domain, 887 subdomain, 14 query string, 2 blocked by robots.txt, 36 file, 1 pages that redirected off the domain.
+Standard survey: 862 pages opened in 15.2 min. Stopped because reached the time limit (15 minutes).
+Page types: the site declares them (data-page-type on <html>), 36 found. Census: the start of 5708 of the 5708 listed pages was read without a browser (73 did not answer) in 7.4 min, so the page counts per type are exact; 192 pages were then opened in a browser to cover the types by their size.
+New page types last appeared at page 222 of 881, new kinds of section at page 569 of 881.
+Found through the menu or footer: 1457, links on pages: 42.
+Sitemap: 5708 pages. 4253 of the site's pages are in the sitemap but were not found by following links.
+  not reached by links: /news/[*] (104 pages). Run the full profile to look at them.
+  not reached by links: /sustainability/[*]/[*] (32 pages). Run the full profile to look at them.
+  not reached by links: /tilbud/[*]/[*] (11 pages). Run the full profile to look at them.
+  not reached by links: /theme/[*]/[*]/[*] (4 pages). Run the full profile to look at them.
+  not reached by links: /parks/[*]/[*]/[*]/[*]/[*] (3 pages). Run the full profile to look at them.
+
+T1  Park homepage                                  242 pages   capture 3
+      close to: T5 (0.32), T36 (0.31)  (merge them if they are the same page type)
+      made of: content-top > o-sticky-wrapper > o-page-panel x3 > js-park-score-overview > js-section-navigation-item > o-page-panel x2 > js-section-navigation-item
+      built 20 different ways, so more than one page is captured
+      /parks/[*]  (242)
+      e.g. https://www.landal.com/parks/aelderholt
+      e.g. https://www.landal.com/parks/alpine-lodge-lenzerheide
+
+T2  Accommodation detail                          3056 pages   capture 3
+      close to: T4 (0.51), T18 (0.5)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      built 8 different ways, so more than one page is captured
+      /parks/[*]/[*]/[*]  (2985)
+      /parks/[*]/[*]/[*]/[*]  (57)
+      e.g. https://www.landal.com/parks/aelderholt/accommodations/6cd
+      e.g. https://www.landal.com/parks/amerongse-berg/accommodations/10l
+
+T3  Offer detail                                   284 pages   capture 3
+      close to: T13 (0.82), T25 (0.7)  (merge them if they are the same page type)
+      made of: content-top > div x2
+      built 6 different ways, so more than one page is captured
+      /parks/[*]/[*]  (241)
+      /offers/[*]/[*]  (20)
+      /campaigns/[*]  (10)
+      ...and 4 more URL shapes
+      e.g. https://www.landal.com/campaigns/cashback
+      e.g. https://www.landal.com/campaigns/pause-deals
+
+T4  Park accommodation listing                     259 pages   capture 3
+      close to: T36 (0.76), T24 (0.68)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      built 3 different ways, so more than one page is captured
+      /parks/[*]/[*]  (239)
+      /parks/[*]/[*]/[*]  (20)
+      e.g. https://www.landal.com/parks/aelderholt/prices-and-availability
+      e.g. https://www.landal.com/parks/alpine-lodge-lenzerheide/prices-and-availability
+
+T5  Park practical information                     241 pages   capture 3
+      close to: T6 (0.47), T7 (0.46)  (merge them if they are the same page type)
+      made of: content-top > js-section-navigation-item x7
+      built 11 different ways, so more than one page is captured
+      /parks/[*]/[*]  (241)
+      e.g. https://www.landal.com/parks/aelderholt/information
+      e.g. https://www.landal.com/parks/alpine-lodge-lenzerheide/information
+
+T6  Park facilities                                245 pages   capture 3
+      close to: T7 (0.73), T35 (0.62)  (merge them if they are the same page type)
+      made of: content-top > div > c-static-page-content > o-page-panel > c-static-page-content x4 > o-page-panel x2 > js-section-navigation-item
+      built 8 different ways, so more than one page is captured
+      /parks/[*]/[*]  (244)
+      e.g. https://www.landal.com/parks/aelderholt/in-and-around-the-park
+      e.g. https://www.landal.com/parks/alpine-lodge-lenzerheide/in-and-around-the-park
+
+T7  Park surroundings                              232 pages   capture 3
+      close to: T6 (0.73), T17 (0.63)  (merge them if they are the same page type)
+      made of: content-top > div > c-static-page-content > o-page-panel x2 > js-section-navigation-item
+      built 6 different ways, so more than one page is captured
+      /parks/[*]/[*]  (232)
+      e.g. https://www.landal.com/parks/aelderholt/surroundings
+      e.g. https://www.landal.com/parks/alpine-lodge-lenzerheide/surroundings
+
+T8  Theme inspirational                             54 pages   capture 6 (2 for sections not seen elsewhere)
+      close to: T9 (0.8), T15 (0.72)  (merge them if they are the same page type)
+      made of: o-page-panel x3
+      built 28 different ways, so more than one page is captured
+      /theme/[*]  (9)
+      /theme/[*]/[*]  (8)
+      /destinations/[*]/[*]/[*]  (6)
+      ...and 11 more URL shapes
+      e.g. https://www.landal.com/about-landal/general-conditions/handelsregisternummers
+      e.g. https://www.landal.com/about-landal/general-conditions/third-parties
+
+T9  Accommodations inspirational                    63 pages   capture 3
+      close to: T8 (0.8), T15 (0.59)  (merge them if they are the same page type)
+      made of: content-top > u-background-color-primary > o-page-panel
+      built 12 different ways, so more than one page is captured
+      /accommodations/[*]  (22)
+      /destinations/[*]/[*]/[*]  (18)
+      /destinations/[*]/[*]  (11)
+      ...and 5 more URL shapes
+      e.g. https://www.landal.com/accommodations
+      e.g. https://www.landal.com/accommodations/apartment
+
+T10  Park facilities detail                         40 pages   capture 3
+      close to: T35 (0.62), T17 (0.59)  (merge them if they are the same page type)
+      made of: o-page-panel > o-region > main-content
+      built 10 different ways, so more than one page is captured
+      /parks/[*]/[*]/[*]  (29)
+      /parks/[*]/[*]  (11)
+      e.g. https://www.landal.com/parks/de-lommerbergen/dagrecreatie
+      e.g. https://www.landal.com/parks/de-lommerbergen/in-and-around-the-park/beauty-and-wellness
+
+T11  Selfservice faq                                40 pages   capture 3
+      close to: T31 (0.46), T8 (0.45)  (merge them if they are the same page type)
+      made of: content-top > div > faq-footer-component
+      built 4 different ways, so more than one page is captured
+      /contact-and-questions/[*]/[*]  (27)
+      /contact-and-questions/[*]  (11)
+      e.g. https://www.landal.com/contact-and-questions/after-your-stay
+      e.g. https://www.landal.com/contact-and-questions/betalen-en-wijzigen
+
+T12  Wintersport                                    17 pages   capture 3
+      close to: T27 (0.54), T10 (0.53)  (merge them if they are the same page type)
+      made of: content-top > o-region > o-page-panel > c-static-page-content > div > o-page-panel
+      built 13 different ways, so more than one page is captured
+      /winter-sports/[*]/[*]  (12)
+      /winter-sports/[*]  (4)
+      /[*]  (1)
+      e.g. https://www.landal.com/winter-sports
+      e.g. https://www.landal.com/winter-sports/austria
+
+T13  Destinations overview                          40 pages   capture 3
+      close to: T25 (0.83), T3 (0.82)  (merge them if they are the same page type)
+      made of: content-top > div x3
+      built 5 different ways, so more than one page is captured
+      /holidays/[*]/[*]  (17)
+      /holidays/[*]  (13)
+      /destinations/[*]/[*]  (5)
+      ...and 2 more URL shapes
+      e.g. https://www.landal.com/destinations
+      e.g. https://www.landal.com/destinations/belgium
+
+T14  Park accommodation overview                    26 pages   capture 2
+      close to: T35 (0.53), T6 (0.52)  (merge them if they are the same page type)
+      made of: content-top > u-font-family-brand > div x14
+      /parks/[*]/[*]  (26)
+      e.g. https://www.landal.com/parks/buitenheem/accommodations
+      e.g. https://www.landal.com/parks/clofers-obermoeschach/accommodations
+
+T15  Theme (each)                                   10 pages   capture 4 (1 for sections not seen elsewhere)
+      close to: T8 (0.72), T9 (0.59)  (merge them if they are the same page type)
+      made of: content-top > o-page-panel x2
+      built 8 different ways, so more than one page is captured
+      /theme/[*]  (8)
+      /theme/[*]/[*]  (1)
+      /[*]  (1)
+      e.g. https://www.landal.com/theme
+      e.g. https://www.landal.com/theme/beauty-en-wellness
+
+T16  Campaigns                                      12 pages   capture 2
+      close to: T8 (0.37), T9 (0.37)  (merge them if they are the same page type)
+      made of: js-sticky-append-container
+      built 3 different ways, so more than one page is captured
+      /campaigns/[*]  (11)
+      /about-landal/[*]/[*]  (1)
+      e.g. https://www.landal.com/about-landal/general-conditions/conditions-for-participation-in-guest-satisfaction-survey-after-return-home
+      e.g. https://www.landal.com/campaigns/autumn-offers
+
+T17  General                                         7 pages   capture 4 (1 for sections not seen elsewhere)
+      close to: T7 (0.63), T10 (0.59)  (merge them if they are the same page type)
+      made of: content-top > div > c-static-page-content > o-page-panel > c-static-page-content
+      built 7 different ways, so more than one page is captured
+      /general/[*]  (6)
+      /about-landal/[*]  (1)
+      e.g. https://www.landal.com/about-landal/general-conditions
+      e.g. https://www.landal.com/general/carefree-bookings
+
+T18  Stories blog article                           12 pages   capture 2
+      close to: T4 (0.55), T30 (0.54)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      built 2 different ways, so more than one page is captured
+      /blog/[*]/[*]  (7)
+      /landal-blog/[*]/[*]  (4)
+      /landal-blog/[*]/[*]/[*]  (1)
+      e.g. https://www.landal.com/blog/bollo/bingo
+      e.g. https://www.landal.com/blog/bollo/fem-fejl
+
+T19  Account (each)                                  5 pages   capture 1
+      close to: T28 (0.75), T8 (0.37)  (merge them if they are the same page type)
+      made of: site-container-wide
+      /my-account/[*]  (4)
+      /my-account/[*]/[*]  (2)
+      e.g. https://www.landal.com/my-account/activate-account
+      e.g. https://www.landal.com/my-account/login/by-code
+
+T20  App detail                                      3 pages   capture 2
+      close to: T23 (0.65), T10 (0.56)  (merge them if they are the same page type)
+      made of: content-top > div > o-page-panel > js-section-navigation-item > c-static-page-content > o-page-panel > page-panel-component
+      built 3 different ways, so more than one page is captured
+      /mobile-app/[*]  (2)
+      /[*]  (1)
+      e.g. https://www.landal.com/mobile-app
+      e.g. https://www.landal.com/mobile-app/check-in
+
+T21  Account login                                   3 pages   capture 1
+      close to: T8 (0.39), T19 (0.37)  (merge them if they are the same page type)
+      made of: login-panel-component > u-height-full
+      /my-account/[*]  (3)
+      /[*]  (1)
+      e.g. https://www.landal.com/my-account
+      e.g. https://www.landal.com/my-account/login
+
+T22  Offers overview                                 9 pages   capture 2
+      close to: T34 (0.49), T15 (0.42)  (merge them if they are the same page type)
+      made of: o-page-panel x2
+      built 2 different ways, so more than one page is captured
+      /offers/[*]/[*]  (7)
+      /[*]  (2)
+      e.g. https://www.landal.com/campaigns
+      e.g. https://www.landal.com/offers
+
+T23  Offer detail inspirational                      4 pages   capture 2
+      close to: T20 (0.65), T10 (0.53)  (merge them if they are the same page type)
+      made of: content-top > div > o-page-panel x4
+      /offers/[*]  (4)
+      e.g. https://www.landal.com/offers/autumn
+      e.g. https://www.landal.com/offers/summer
+
+T24  Home                                            2 pages   capture 2
+      close to: T4 (0.68), T36 (0.67)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      /  (1)
+      e.g. https://www.landal.com/
+      e.g. https://www.landal.com/general
+
+T25  Region inspirational                            2 pages   capture 1
+      close to: T13 (0.83), T3 (0.7)  (merge them if they are the same page type)
+      made of: content-top > div x3
+      /destinations/[*]/[*]  (2)
+      e.g. https://www.landal.com/destinations/netherlands/friesland
+      e.g. https://www.landal.com/destinations/netherlands/groningen
+
+T26  Park listing                                    2 pages   capture 1
+      close to: T32 (0.5), T13 (0.43)  (merge them if they are the same page type)
+      made of: content-top > o-container > u-background-color-primary x2
+      built 2 different ways, so more than one page is captured
+      /destinations/[*]  (1)
+      /[*]  (1)
+      e.g. https://www.landal.com/destinations/parks
+      e.g. https://www.landal.com/parks
+
+T27  About                                           2 pages   capture 2
+      close to: T12 (0.54), T17 (0.44)  (merge them if they are the same page type)
+      made of: content-top > o-region > o-page-panel x3
+      built 2 different ways, so more than one page is captured
+      /[*]  (1)
+      /general/[*]  (1)
+      e.g. https://www.landal.com/about-landal
+      e.g. https://www.landal.com/general/complaints-procedure
+
+T28  /landal-blog/[*]                                2 pages   capture 1
+      close to: T19 (0.75), T8 (0.37)  (merge them if they are the same page type)
+      made of: site-container-wide
+      /landal-blog/[*]  (2)
+      e.g. https://www.landal.com/landal-blog/park-stories
+      e.g. https://www.landal.com/landal-blog/wander-blog
+
+T29  Selfservice contact                              1 page   capture 1
+      close to: T5 (0.39)  (merge them if they are the same page type)
+      made of: content-top > page-panel-component x2 > c-roompot-item-background-grey > page-panel-component > js-section-navigation-item > page-panel-component x2
+      /[*]  (1)
+      e.g. https://www.landal.com/contact-and-questions
+
+T30  Service contactform completed                    1 page   capture 1
+      close to: T4 (0.55), T18 (0.54)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      /contact-and-questions/[*]  (1)
+      e.g. https://www.landal.com/contact-and-questions/bedankt
+
+T31  How do I add a pet to my existing booking?    ~207 pages   capture 1
+      close to: T11 (0.46), T8 (0.45)  (merge them if they are the same page type)
+      made of: content-top > div > faq-footer-component
+      /contact-and-questions/[*]/[*]/[*]  (207)  1 of 1 sampled page is this template
+      e.g. https://www.landal.com/contact-and-questions/betalen-en-wijzigen/change-booking/hoe-voeg-ik-een-huisdier-toe-aan-mijn-reservering
+
+T32  Destinations accommodations                      1 page   capture 1
+      close to: T13 (0.61), T3 (0.59)  (merge them if they are the same page type)
+      made of: content-top > div x2
+      /destinations/[*]  (1)
+      e.g. https://www.landal.com/destinations/accommodations
+
+T33  Favorites overview                               1 page   capture 1
+      close to: T34 (0.34), T22 (0.33)  (merge them if they are the same page type)
+      made of: u-margin-top-double > c-heading > p > u-margin-bottom-double
+      /[*]  (1)
+      e.g. https://www.landal.com/favourites
+
+T34  My bookings                                      1 page   capture 1
+      close to: T22 (0.49), T38 (0.4)  (merge them if they are the same page type)
+      made of: c-image-background-layout > o-page-panel x2
+      /[*]  (1)
+      e.g. https://www.landal.com/my-bookings
+
+T35  Kamperland Beach Resort Swimming Pool          ~4 pages   capture 1
+      close to: T6 (0.62), T10 (0.62)  (merge them if they are the same page type)
+      made of: content-top > c-static-page-content > o-page-panel
+      /parks/[*]/[*]  (4)  1 of 358 sampled pages are this template (mixed pattern: the count is rough)
+      e.g. https://www.landal.com/parks/beach-resort-kamperland/day-visitors-beach-resort
+
+T36  Parks map                                        1 page   capture 1
+      close to: T4 (0.76), T24 (0.67)  (merge them if they are the same page type)
+      made of: content-top > main-content
+      /parks/[*]  (1)
+      e.g. https://www.landal.com/parks/map
+
+T37  Partners                                         1 page   capture 1
+      close to: T13 (0.52), T32 (0.52)  (merge them if they are the same page type)
+      made of: content-top > div x2
+      /partners/[*]  (1)
+      e.g. https://www.landal.com/partners/dgd24l
+
+T38  Sustainability home                              1 page   capture 1
+      close to: T39 (0.53), T35 (0.5)  (merge them if they are the same page type)
+      made of: content-top > c-static-page-content > o-page-panel x3
+      /[*]  (1)
+      e.g. https://www.landal.com/sustainability
+
+T39  Sustainability detail                            1 page   capture 1
+      close to: T38 (0.53), T35 (0.51)  (merge them if they are the same page type)
+      made of: content-top > c-static-page-content > o-page-panel x2
+      /sustainability/[*]  (1)
+      e.g. https://www.landal.com/sustainability/green-key
+
+11 templates were seen on a single page. Check those: they are one-off pages, or a template that needs merging.
+31 pages could not be opened (see survey.json).
+Capture plan: 82 pages.
+Sections: all 66 kinds of section seen on the surveyed pages are in the plan.

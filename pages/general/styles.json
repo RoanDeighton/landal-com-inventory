@@ -1,0 +1,100 @@
+[
+  {
+    "path": "header",
+    "elPath": [
+      1,
+      0,
+      0
+    ],
+    "heading": null,
+    "digest": "h0p0i1a8b7f1",
+    "tag": "div",
+    "classes": "c-site-header o-page-panel is-sticky",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 0,
+    "width": 1440,
+    "height": 80
+  },
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Experience autumn",
+    "digest": "h1p0i0a3b0f0",
+    "tag": "section",
+    "classes": "content-top",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 80,
+    "width": 1440,
+    "height": 542
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "heading": "Last minutes",
+    "digest": "h7p0i8a7b0f0",
+    "tag": "section",
+    "classes": "main-content",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 662,
+    "width": 1440,
+    "height": 1817
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Need help?",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 2489,
+    "width": 1440,
+    "height": 1216
+  }
+]

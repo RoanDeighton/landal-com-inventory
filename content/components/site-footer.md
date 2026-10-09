@@ -1,0 +1,97 @@
+---
+title: "Site Footer"
+class: "c-footer"
+examples:
+  - image: ../../pages/about-landal/crop-site-footer.webp
+    capturedFromPage: about-landal
+siteUsage:
+  pages: 5134
+  low: 82
+  high: 5752
+  of: 5752
+  firm: false
+  summary: "On all 3,056 Accommodation detail pages; all 284 Offer detail pages; all 259 Park accommodation listing pages; all 245 Park facilities pages; all 242 Park homepage pages; all 241 Park practical information pages; and 33 more page types."
+usedOn:
+  - about-landal
+  - about-landal-general-conditions
+  - about-landal-general-conditions-conditions-for-participation-in-guest-satisfaction-survey-after-return-home
+  - accommodations
+  - accommodations-reunion-and-group-accommodations
+  - blog-bollo-bingo
+  - campaigns
+  - campaigns-cashback
+  - campaigns-toddler-time
+  - contact-and-questions
+  - contact-and-questions-bedankt
+  - contact-and-questions-betalen-en-wijzigen
+  - contact-and-questions-betalen-en-wijzigen-change-booking-hoe-voeg-ik-een-huisdier-toe-aan-mijn-reservering
+  - contact-and-questions-gift-cards-discounts
+  - contact-and-questions-prior-to-your-stay-arrival-at-the-park
+  - destinations
+  - destinations-accommodations
+  - destinations-netherlands-friesland
+  - destinations-netherlands-limburg-arcen
+  - destinations-netherlands-zeeland-scharendijke
+  - favourites
+  - general
+  - general-carefree-bookings
+  - general-carefree-bookings-cancellation
+  - general-complaints-procedure
+  - general-lost-and-found
+  - general-packing-list
+  - general-payment-options
+  - general-privacy
+  - holidays-holiday-parks-in-belgium-with-a-swimming-pool
+  - holidays-last-minutes-the-netherlands
+  - home
+  - landal-blog-park-stories
+  - landal-blog-wander-blog-gefuehrte-wanderung-mit-wanderguide
+  - mobile-app
+  - mobile-app-digital-key
+  - models-wanted-inschrijfformulier
+  - my-account
+  - my-account-activate-account
+  - my-bookings
+  - offers
+  - offers-autumn
+  - offers-water-fun
+  - offers-winter
+  - offers-winter-voorjaarsvakantie-in-de-sneeuw
+  - parks
+  - parks-aelderholt-information
+  - parks-aelderholt-prices-and-availability
+  - parks-aelderholt-surroundings
+  - parks-appartementencomplex-bosch-en-zee-in-and-around-the-park
+  - parks-beach-resort-kamperland-day-visitors-beach-resort
+  - parks-beach-resort-nieuwvliet-bad
+  - parks-brandnertal-in-and-around-the-park
+  - parks-cape-helius-information
+  - parks-clofers-obermoeschach-omgeving
+  - parks-clofers-rattendorf-accommodations-4l
+  - parks-de-lommerbergen-in-and-around-the-park-kids
+  - parks-de-thijmse-berg-accommodations
+  - parks-de-vlinderhoeve-accommodaties-4c-4c-argus
+  - parks-hoog-vaals
+  - parks-laceby-manor-resort-explore-the-resort
+  - parks-map
+  - parks-port-greve-accommodations-6sa
+  - parks-sonnenberg-dayguests
+  - parks-vakantiepark-hunzedal-surroundings
+  - parks-vakantiepark-it-wiid-information
+  - parks-vierwaldstattersee
+  - parks-waterpark-oudehaske-accommodations
+  - parks-whalesborough-resort-explore-the-resort-zwemmen
+  - parks-whalesborough-resort-prices-and-availability
+  - parks-woodland-lakes-accommodation-4cj6
+  - partners-dgd24l
+  - sustainability
+  - sustainability-green-key
+  - theme-beauty-en-wellness
+  - theme-excursions-and-day-trips
+  - theme-luxe-vakantie
+  - theme-packages-extra-luxury
+  - theme-vakantie-in-de-bergen
+  - winter-sports
+  - winter-sports-austria
+  - winter-sports-austria-katschberg
+---

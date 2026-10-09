@@ -1,0 +1,100 @@
+[
+  {
+    "path": "header",
+    "elPath": [
+      1,
+      1,
+      0
+    ],
+    "heading": null,
+    "digest": "h0p0i1a8b7f1",
+    "tag": "div",
+    "classes": "c-site-header-wrap",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 0,
+    "width": 1440,
+    "height": 162
+  },
+  {
+    "path": "main>0",
+    "elPath": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "heading": "Holiday park Port Greve 6-person apartment 6SA",
+    "digest": "h3p0i8a8b7f1",
+    "tag": "section",
+    "classes": "content-top",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 162,
+    "width": 1440,
+    "height": 617
+  },
+  {
+    "path": "main>1",
+    "elPath": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "heading": "Prices and availability",
+    "digest": "h8p3i3a0b7f0",
+    "tag": "section",
+    "classes": "main-content",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 779,
+    "width": 1440,
+    "height": 2375
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Need help?",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 3174,
+    "width": 1440,
+    "height": 1216
+  }
+]

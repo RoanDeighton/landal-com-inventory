@@ -1,0 +1,72 @@
+[
+  {
+    "path": "header",
+    "elPath": [
+      1,
+      0,
+      0
+    ],
+    "heading": null,
+    "digest": "h0p0i1a8b7f1",
+    "tag": "div",
+    "classes": "c-site-header o-page-panel is-sticky",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 0,
+    "width": 1440,
+    "height": 80
+  },
+  {
+    "path": "main>0",
+    "elPath": [
+      1
+    ],
+    "heading": "Campaigns",
+    "digest": "h7p0i1a8b7f1",
+    "tag": "div",
+    "classes": "js-sticky-append-container",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 0,
+    "width": 1440,
+    "height": 1374
+  },
+  {
+    "path": "footer",
+    "elPath": [
+      1,
+      1,
+      2
+    ],
+    "heading": "Need help?",
+    "digest": "h3p0i0a8b0f0",
+    "tag": "footer",
+    "classes": "c-footer",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(91, 99, 91)",
+    "fontFamily": "Inter, arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "top": 158,
+    "width": 1440,
+    "height": 1216
+  }
+]

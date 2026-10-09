@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "site": {
+    "url": "https://www.landal.com/"
+  },
+  "scope": {
+    "locale": "en",
+    "subdomains": [],
+    "skip": []
+  },
+  "depth": "standard",
+  "survey": {
+    "maxMinutes": null,
+    "maxPages": null
+  },
+  "capture": {
+    "perTemplate": null,
+    "coverage": true,
+    "maxPages": null
+  },
+  "content": {
+    "depth": "placement",
+    "variants": true,
+    "language": "en"
+  },
+  "publish": {
+    "mode": "public-repo",
+    "repo": "landal-com-inventory",
+    "visibility": "public"
+  },
+  "checkIns": "review-and-publish",
+  "crawl": {
+    "permission": "public"
+  },
+  "audience": "link"
+}

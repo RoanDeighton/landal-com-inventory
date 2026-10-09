@@ -1,0 +1,509 @@
+{
+  "startUrl": "https://www.landal.com/",
+  "pages": [
+    {
+      "url": "https://www.landal.com/parks/beach-resort-nieuwvliet-bad",
+      "template": "T1",
+      "templateName": "Park homepage",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/vierwaldstattersee",
+      "template": "T1",
+      "templateName": "Park homepage",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/hoog-vaals",
+      "template": "T1",
+      "templateName": "Park homepage",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/de-vlinderhoeve/accommodaties/4c/4c-argus",
+      "template": "T2",
+      "templateName": "Accommodation detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/woodland-lakes/accommodation/4cj6",
+      "template": "T2",
+      "templateName": "Accommodation detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/port-greve/accommodations/6sa",
+      "template": "T2",
+      "templateName": "Accommodation detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/offers/water-fun",
+      "template": "T3",
+      "templateName": "Offer detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/campaigns/cashback",
+      "template": "T3",
+      "templateName": "Offer detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/offers/winter/voorjaarsvakantie-in-de-sneeuw",
+      "template": "T3",
+      "templateName": "Offer detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/aelderholt/prices-and-availability",
+      "template": "T4",
+      "templateName": "Park accommodation listing",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/clofers-rattendorf/accommodations/4l",
+      "template": "T4",
+      "templateName": "Park accommodation listing",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/whalesborough-resort/prices-and-availability",
+      "template": "T4",
+      "templateName": "Park accommodation listing",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/aelderholt/information",
+      "template": "T5",
+      "templateName": "Park practical information",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/vakantiepark-it-wiid/information",
+      "template": "T5",
+      "templateName": "Park practical information",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/cape-helius/information",
+      "template": "T5",
+      "templateName": "Park practical information",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/laceby-manor-resort/explore-the-resort",
+      "template": "T6",
+      "templateName": "Park facilities",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/appartementencomplex-bosch-en-zee/in-and-around-the-park",
+      "template": "T6",
+      "templateName": "Park facilities",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/brandnertal/in-and-around-the-park",
+      "template": "T6",
+      "templateName": "Park facilities",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/aelderholt/surroundings",
+      "template": "T7",
+      "templateName": "Park surroundings",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/vakantiepark-hunzedal/surroundings",
+      "template": "T7",
+      "templateName": "Park surroundings",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/clofers-obermoeschach/omgeving",
+      "template": "T7",
+      "templateName": "Park surroundings",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general/packing-list",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/theme/packages/extra-luxury",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/models-wanted/inschrijfformulier",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/destinations/netherlands/limburg/arcen",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/accommodations",
+      "template": "T9",
+      "templateName": "Accommodations inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/destinations/netherlands/zeeland/scharendijke",
+      "template": "T9",
+      "templateName": "Accommodations inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/accommodations/reunion-and-group-accommodations",
+      "template": "T9",
+      "templateName": "Accommodations inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/de-lommerbergen/in-and-around-the-park/kids",
+      "template": "T10",
+      "templateName": "Park facilities detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/whalesborough-resort/explore-the-resort/zwemmen",
+      "template": "T10",
+      "templateName": "Park facilities detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/sonnenberg/dayguests",
+      "template": "T10",
+      "templateName": "Park facilities detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions/betalen-en-wijzigen",
+      "template": "T11",
+      "templateName": "Selfservice faq",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions/prior-to-your-stay/arrival-at-the-park",
+      "template": "T11",
+      "templateName": "Selfservice faq",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions/gift-cards-discounts",
+      "template": "T11",
+      "templateName": "Selfservice faq",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/winter-sports/austria/katschberg",
+      "template": "T12",
+      "templateName": "Wintersport",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/winter-sports",
+      "template": "T12",
+      "templateName": "Wintersport",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/winter-sports/austria",
+      "template": "T12",
+      "templateName": "Wintersport",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/destinations",
+      "template": "T13",
+      "templateName": "Destinations overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/holidays/last-minutes/the-netherlands",
+      "template": "T13",
+      "templateName": "Destinations overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/holidays/holiday-parks-in-belgium-with-a-swimming-pool",
+      "template": "T13",
+      "templateName": "Destinations overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/de-thijmse-berg/accommodations",
+      "template": "T14",
+      "templateName": "Park accommodation overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/waterpark-oudehaske/accommodations",
+      "template": "T14",
+      "templateName": "Park accommodation overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/theme/beauty-en-wellness",
+      "template": "T15",
+      "templateName": "Theme (each)",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/theme/excursions-and-day-trips",
+      "template": "T15",
+      "templateName": "Theme (each)",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/theme/vakantie-in-de-bergen",
+      "template": "T15",
+      "templateName": "Theme (each)",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/about-landal/general-conditions/conditions-for-participation-in-guest-satisfaction-survey-after-return-home",
+      "template": "T16",
+      "templateName": "Campaigns",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/campaigns/toddler-time",
+      "template": "T16",
+      "templateName": "Campaigns",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general/payment-options",
+      "template": "T17",
+      "templateName": "General",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general/carefree-bookings",
+      "template": "T17",
+      "templateName": "General",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/about-landal/general-conditions",
+      "template": "T17",
+      "templateName": "General",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/blog/bollo/bingo",
+      "template": "T18",
+      "templateName": "Stories blog article",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/landal-blog/wander-blog/gefuehrte-wanderung-mit-wanderguide",
+      "template": "T18",
+      "templateName": "Stories blog article",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/my-account/activate-account",
+      "template": "T19",
+      "templateName": "Account (each)",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/mobile-app",
+      "template": "T20",
+      "templateName": "App detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/mobile-app/digital-key",
+      "template": "T20",
+      "templateName": "App detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/my-account",
+      "template": "T21",
+      "templateName": "Account login",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/offers",
+      "template": "T22",
+      "templateName": "Offers overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/campaigns",
+      "template": "T22",
+      "templateName": "Offers overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/offers/winter",
+      "template": "T23",
+      "templateName": "Offer detail inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/offers/autumn",
+      "template": "T23",
+      "templateName": "Offer detail inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/",
+      "template": "T24",
+      "templateName": "Home",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general",
+      "template": "T24",
+      "templateName": "Home",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/destinations/netherlands/friesland",
+      "template": "T25",
+      "templateName": "Region inspirational",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks",
+      "template": "T26",
+      "templateName": "Park listing",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/about-landal",
+      "template": "T27",
+      "templateName": "About",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general/complaints-procedure",
+      "template": "T27",
+      "templateName": "About",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/landal-blog/park-stories",
+      "template": "T28",
+      "templateName": "/landal-blog/[*]",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions",
+      "template": "T29",
+      "templateName": "Selfservice contact",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions/bedankt",
+      "template": "T30",
+      "templateName": "Service contactform completed",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/contact-and-questions/betalen-en-wijzigen/change-booking/hoe-voeg-ik-een-huisdier-toe-aan-mijn-reservering",
+      "template": "T31",
+      "templateName": "How do I add a pet to my existing booking?",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/destinations/accommodations",
+      "template": "T32",
+      "templateName": "Destinations accommodations",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/favourites",
+      "template": "T33",
+      "templateName": "Favorites overview",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/my-bookings",
+      "template": "T34",
+      "templateName": "My bookings",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/beach-resort-kamperland/day-visitors-beach-resort",
+      "template": "T35",
+      "templateName": "Kamperland Beach Resort Swimming Pool",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/parks/map",
+      "template": "T36",
+      "templateName": "Parks map",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/partners/dgd24l",
+      "template": "T37",
+      "templateName": "Partners",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/sustainability",
+      "template": "T38",
+      "templateName": "Sustainability home",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/sustainability/green-key",
+      "template": "T39",
+      "templateName": "Sustainability detail",
+      "reason": "template"
+    },
+    {
+      "url": "https://www.landal.com/general/carefree-bookings/cancellation",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "coverage",
+      "adds": [
+        "~div"
+      ]
+    },
+    {
+      "url": "https://www.landal.com/general/lost-and-found",
+      "template": "T8",
+      "templateName": "Theme inspirational",
+      "reason": "coverage",
+      "adds": [
+        "main-content"
+      ]
+    },
+    {
+      "url": "https://www.landal.com/theme/luxe-vakantie",
+      "template": "T15",
+      "templateName": "Theme (each)",
+      "reason": "coverage",
+      "adds": [
+        "main-content"
+      ]
+    },
+    {
+      "url": "https://www.landal.com/general/privacy",
+      "template": "T17",
+      "templateName": "General",
+      "reason": "coverage",
+      "adds": [
+        "o-page-panel"
+      ]
+    }
+  ]
+}

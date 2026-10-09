@@ -1,0 +1,116 @@
+{
+  "rename": {
+    "508739": "Photo And Floor Plan Gallery",
+    "21638b": "Site Footer",
+    "081c88": "Site Header",
+    "9ce4ea": "Cookie Bar",
+    "a8d221": "Photo Hero Banner",
+    "67fca9": "Destination Search Hero",
+    "5aff21": "Facilities Text With List",
+    "b013d1": "Cashback Terms List",
+    "40d786": "Contact And Press Details",
+    "92f12d": "Image With Text Card",
+    "f2eeab": "Accommodation Category Tiles",
+    "cc6dcb": "App Download Feature List",
+    "e951b1": "Expandable Info Accordion",
+    "4dfb93": "Accommodation Listing With Filters",
+    "eacfa2": "Price Availability Calendar",
+    "12928e": "Seasonal Offer Tiles",
+    "ac6191": "Nearby Attraction Tiles",
+    "ef11e0": "Photo Strip Banner",
+    "481fa7": "Image Text Panel",
+    "c36208": "Photo Checklist Feature",
+    "ae547a": "Pre Travel Checklist",
+    "1b044d": "Accommodation Card Row",
+    "30346a": "Icon Column Info Section",
+    "45e6de": "Facility Icon List",
+    "12ca76": "Video Consent Gate",
+    "a69dbf": "Facility Category Tiles",
+    "ff68c6": "Photo Card Row",
+    "b9f4cc": "Destination Tile Grid",
+    "0d9cc8": "Privacy Settings Panel",
+    "271b52": "Accommodation Types Heading",
+    "70f0c8": "Quick Links Bar",
+    "09d900": "Personal Details Form",
+    "c2a024": "Family Member Form",
+    "a25430": "Lost Item Report Form",
+    "3c378d": "Office Contact Directory",
+    "2d581b": "Booking Search Bar",
+    "725d4e": "Login And Registration Panel",
+    "c7406b": "Highlight Icon Strip",
+    "2d74f1": "Category Navigation",
+    "fa5703": "Activity Ticket Grid"
+  },
+  "merge": [
+    [
+      "081c88",
+      "8e3b7e"
+    ],
+    [
+      "a8d221",
+      "e9e60d"
+    ],
+    [
+      "67fca9",
+      "ea75b3"
+    ],
+    [
+      "92f12d",
+      "45ec63"
+    ],
+    [
+      "4dfb93",
+      "21572d"
+    ],
+    [
+      "eacfa2",
+      "41fe5b"
+    ],
+    [
+      "ef11e0",
+      "59e747"
+    ],
+    [
+      "481fa7",
+      "21013d"
+    ],
+    [
+      "c36208",
+      "e60c96"
+    ],
+    [
+      "1b044d",
+      "e15299"
+    ],
+    [
+      "1b044d",
+      "cd2b38"
+    ],
+    [
+      "45e6de",
+      "5ea431"
+    ],
+    [
+      "45e6de",
+      "f80ec9"
+    ]
+  ],
+  "variants": {
+    "8e3b7e": "Logo bar only, no menu",
+    "e9e60d": "Title only, no button",
+    "ea75b3": "Accommodation search fields",
+    "45ec63": "Phone photo with one button",
+    "21572d": "Fewer cards",
+    "41fe5b": "Booking bar above the grid",
+    "59e747": "Photo with text overlay beside thumbnails",
+    "21013d": "Key graphic instead of photo",
+    "e60c96": "Two checkboxes with a note",
+    "e15299": "Different card heading",
+    "cd2b38": "With a heading above",
+    "5ea431": "Teal icons, ski facts",
+    "f80ec9": "Bullets without icons"
+  },
+  "exclude": [
+    "edef02"
+  ]
+}
